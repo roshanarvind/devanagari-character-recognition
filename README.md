@@ -67,6 +67,3 @@ Kaggle Database Repository - https://www.kaggle.com/rishianand/devanagari-charac
 Computer Vision Research Group - [website archive] (https://web.archive.org/web/20160105230017/http://cvresearchnepal.com/wordpress/dhcd/)
 Subhigya Nepal - [blog] (http://www.thelacunablog.com/)
 
-## Contact
-Email ID - rishianand54@gmail.com
-
